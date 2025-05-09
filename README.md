@@ -67,7 +67,7 @@ JavaScript – logic and interactive functions
 
 ✨ Author
 
-MewnityTech
+mewnityy
 
 
 BrowserOS v1.0
@@ -118,7 +118,7 @@ CSS — оформление и стилизация
 JavaScript — логика работы и интерактивные функции
 
 ✨ Автор 
-MewnityTech
+mewnityy
 
 
 💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎
